@@ -1,0 +1,26 @@
+{
+  "name": "web-scraper",
+  "version": "0.0.0",
+  "description": "web scaper using node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonrai/web-scraper.git"
+  },
+  "keywords": [
+    "web",
+    "scraper"
+  ],
+  "author": "raize",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/simonrai/web-scraper/issues"
+  },
+  "dependencies": {
+    "request": "~2.34.0",
+    "cheerio": "~0.15.0"
+  }
+}
